@@ -1,3 +1,4 @@
+[documentation trademe house.docx](https://github.com/BrunoPrincipi/Queenstown-housing-dataset/files/11352380/documentation.trademe.house.docx)
 # Predicting House Prices in the Queenstown-Lake Region
 
 
