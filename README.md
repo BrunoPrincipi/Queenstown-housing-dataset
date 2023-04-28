@@ -48,11 +48,11 @@ To evaluate the performance of the models, Root Mean Squared Error (RMSE) was ch
 
 ## Files inside this repo
 This Project includes:
-  - 1 csv file conteins the dataset(house_trademe3 18-04.csv).
+  - 1 csv file contains the dataset(house_trademe3 18-04.csv).
   - 1 executable file, where the cleaning and pre-processing of the data was performed. Also where the models     were built (houses_trademe5.py).
   - 1 file as documentation with information about the dataset, cleaning process, results and   conclusions(documentation trademe house.docx).
 
-To run the executable files will be needed to download first  the dataset (house_trademe3 18-04.csv)
+To run the executable file will be needed to download first the dataset (house_trademe3 18-04.csv)
 
 
 ## To DO
