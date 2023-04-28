@@ -35,15 +35,16 @@ The project uses a supervised learning approach to build a machine learning mode
 - NumPy
 
 
-Goals of this project:
+## Goals and Results:
 
+Goals:
 - Learn and experiment extracting information from a website to build a datast from scratch.
-
 - Learn and experiment how different data cleaning/preprocessing tasks affect model predictions.
-
 - Learn and experiment how the different hyperparameters affect model predictions.
-
 - Predict the sale price of the houses based on the given features.
+
+Results:
+To evaluate the performance of the models, Root Mean Squared Error (RMSE) was chosen as the metric. The best performance was achieved by the Random Forest Regressor model, with an RMSE value of 310569. When compared to the mean price of the dataset (NZD $1.494.764), the RMSE indicates that an average error of around 20% of the mean was introduced by the model. It is important to note that the dataset used in this project is small, with only 237 instances, and more than half of these instances do not specify the price value (label) for the house. Given these limitations, there is still room for improvement in the model's performance. Future work could involve collecting more data, feature engineering, or other techniques to address these limitations.
 
 ## Files inside this repo
 This Project includes:
