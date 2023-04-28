@@ -44,15 +44,15 @@ Goals:
 - Predict the sale price of the houses based on the given features.
 
 Results:
-To evaluate the performance of the models, Root Mean Squared Error (RMSE) was chosen as the metric. The best performance was achieved by the Random Forest Regressor model, with an RMSE value of 310569. When compared to the mean price of the dataset (NZD $1.494.764), the RMSE indicates that an average error of around 20% of the mean was introduced by the model. It is important to note that the dataset used in this project is small, with only 237 instances, and more than half of these instances do not specify the price value (label) for the house. Given these limitations, there is still room for improvement in the model's performance. Future work could involve collecting more data, feature engineering, or other techniques to address these limitations.
+To evaluate the performance of the models, Root Mean Squared Error (RMSE) was chosen as the metric. The best performance was achieved by the Random Forest Regressor model, with an RMSE value of 310569. When compared to the mean price of the dataset (NZD $1.494.764), the RMSE represents an average error of approximately 20% of the mean. This is not ideal, but still suggests that the model has some predictive power, it's worth noting that the dataset used in this project is small, with only 237 instances, and more than half of these instances do not specify the price value (label) for the house. Given these limitations, there is still room for improvement in the model's performance. Future work could involve collecting more data, feature engineering, or other techniques to address these limitations.
 
 ## Files inside this repo
 This Project includes:
-  1 csv file conteins the dataset
-  1 executable file, where the cleaning and pre-processing of the data was performed. Also where the models     were built.
-  1 file as documentation with information about the dataset, cleaning process, results and conclusions.
+  - 1 csv file conteins the dataset(house_trademe3 18-04.csv).
+  - 1 executable file, where the cleaning and pre-processing of the data was performed. Also where the models     were built (houses_trademe5.py).
+  - 1 file as documentation with information about the dataset, cleaning process, results and   conclusions(documentation trademe house.docx).
 
-To run the executable files will be needed to download first  the file 1 the dataset (.csv)
+To run the executable files will be needed to download first  the dataset (house_trademe3 18-04.csv)
 
 
 ## To DO
