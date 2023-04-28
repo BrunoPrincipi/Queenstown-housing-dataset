@@ -3,7 +3,7 @@
 ## Project Overview
 This project aims to analyze data related to houses on sale in the Queenstown-Lake region and predict their prices based on a set of features extracted from the Trade Me website. The project has an educational purpose and serves as a practice and introduction to machine learning fundamentals. 
 
-The dataset used in this project is collected by extracting information from the Trade Me website using Python libraries such as Beautifulsoup, requests, and regular expressions. The data contains information about houses on sale in the Queenstown-Lake region, including their features such as location, size, number of rooms, etc.
+The dataset used in this project was collected by extracting information from the Trade Me website using Python libraries such as Beautifulsoup, requests, and regular expressions. The data contains information about houses on sale in the Queenstown-Lake region, including their features such as location, size, number of rooms, etc.
 
 In addition, the project uses `shapely.geometry` to check if a house has the correct neighborhood name based on its coordinates, ensuring the accuracy of the data and improving the performance of the machine learning model.
 
