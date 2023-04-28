@@ -1,5 +1,16 @@
 # Predicting House Prices in the Queenstown-Lake Region
 
+
+![image](https://user-images.githubusercontent.com/125404145/235096490-a92d4201-9f76-4b9f-b01f-0d754f26090d.png)
+
+
+
+![image](https://user-images.githubusercontent.com/125404145/235096085-84f18ae8-ebc0-41a0-b60b-f7e75ef65382.png)
+
+
+
+
+
 ## Project Overview
 This project aims to analyze data related to houses on sale in the Queenstown-Lake region and predict their prices based on a set of features extracted from the Trade Me website. The project has an educational purpose and serves as a practice and introduction to machine learning fundamentals. 
 
@@ -26,13 +37,13 @@ The project uses a supervised learning approach to build a machine learning mode
 
 Goals of this project:
 
-Learn and experiment extracting information from a website to build a datast from scratch.
+- Learn and experiment extracting information from a website to build a datast from scratch.
 
-Learn and experiment how different data cleaning/preprocessing tasks affect model predictions.
+- Learn and experiment how different data cleaning/preprocessing tasks affect model predictions.
 
-Learn and experiment how the different hyperparameters affect model predictions.
+- Learn and experiment how the different hyperparameters affect model predictions.
 
-Predict the sale price of the houses based on the given features.
+- Predict the sale price of the houses based on the given features.
 
 ## Files inside this repo
 This Project includes:
