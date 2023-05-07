@@ -57,7 +57,7 @@ This Project includes:
 To run the executable file will be needed to download first the dataset (house_trademe3 18-04.csv)
 
 
-## To DO
+## To Do
 
 Improve the data set by collecting more data from different sources.
 
