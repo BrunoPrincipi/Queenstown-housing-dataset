@@ -50,11 +50,12 @@ To evaluate the performance of the models, Root Mean Squared Error (RMSE) was ch
 ## Files inside this repo
 This Project includes:
   - 1 csv file contains the dataset(house_trademe3 18-04.csv).
-  - 1 executable file, where the cleaning and pre-processing of the data was performed. Also where the models     were built (houses_trademe5.ipynb).
-  - 1 executable file where the data extraction from the web page is shown in order to build the database(scarping_trademe_2.ipynb).
+  - 1 executable file, where the cleaning and pre-processing of the data was performed. Also where the models     were built (houses_trademe5.ipynb). To run this file, it will be necessary to download the dataset (house_trademe3 18-04.csv)
+  - 1 executable file where the data extracted from the web page is shown in order to build the database(scarping_trademe_2.ipynb).
   - 1 file as documentation with information about the dataset, cleaning process, results and   conclusions(documentation Visualization-Queenstown-housing.pdf).
-
-To run the executable file will be needed to download first the dataset (house_trademe3 18-04.csv)
+  - 1 executable file (interactive_predictions.ipynb) where the user could interact through buttons and display the price of a house predicted by the model based on the selected features.
+  - 2 pickle files (model3.pkl,neighbo_polygons.pkl) needed to run the file interactive_predictions.ipynb.  
+ 
 
 
 ## To Do
