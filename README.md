@@ -1,5 +1,5 @@
 
-# Predicting House Prices in the Queenstown-Lake Region
+# From Data Extraction to Price Prediction: A Hands-On Machine Learning Project with Queenstown-Lake Housing Data
 
 
 ![image](https://user-images.githubusercontent.com/125404145/235096490-a92d4201-9f76-4b9f-b01f-0d754f26090d.png)
